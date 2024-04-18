@@ -1,0 +1,5 @@
+# run program
+go run server.go
+
+# test program
+go test
